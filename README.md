@@ -37,4 +37,4 @@ pip install Flask
 
 теперь вот это введите
 
-C:\Users\User\Desktop\flask\ex.py FLASK_APP=hello.py
+C:\Users\User\Desktop\flask\ex.py>set FLASK_APP=ex.py
