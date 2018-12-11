@@ -31,3 +31,10 @@ pip install Flask
 
 Теперь можно работать и создавать приложения.
 
+## Работать и создавать, угу
+
+Создайте py файл с содержимым hello_world.py
+
+теперь вот это введите
+
+C:\Users\User\Desktop\flask\ex.py FLASK_APP=hello.py
