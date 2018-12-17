@@ -1,4 +1,4 @@
-# flask_finek
+# flask_finek :thinking:
 
 ## Установка
 
